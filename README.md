@@ -6,15 +6,19 @@
   <img src="https://profile-counter.glitch.me/arcyse/count.svg" alt="///uhhh...the counter server seems to be down///" width="210" height="20" />
 </p>
 <br>
+-> Working towards Cybersecuirty Analyst.
+<br>
+<br>
+-> Will know unecessary knick-knakcs about systems.
 <br>
 <br>
 <br>
+-> Experimenting with anything I can/can't be bothered with.
 <br>
 <br>
-<br>
-<br>
+-> Forking into Web development and System Administration.
 <br>
 <br>
 ///
-This page is in the making!
+->> This page is still in the making!
 ///
