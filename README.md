@@ -6,10 +6,10 @@
   <img src="https://profile-counter.glitch.me/arcyse/count.svg" alt="///uhhh...the counter server seems to be down///" width="210" height="20" />
 </p>
 <br>
--> Working towards Cybersecuirty Analyst.
+-> Working towards Cybersecurity Analyst.
 <br>
 <br>
--> Will know unecessary knick-knakcs about systems.
+-> Will know unecessary knick-knacks about systems.
 <br>
 <br>
 -> Experimenting with anything I can/can't be bothered with.
